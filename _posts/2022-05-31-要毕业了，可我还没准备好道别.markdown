@@ -1,0 +1,14 @@
+---
+layout: post
+title: 要毕业了，可我还没准备好道别
+comments: true
+published: true
+date:   2022-5-31
+description: ''
+categories:
+color: 'rgb(154,133,255)'
+---
+请再给我些时间去做准备吧。
+
+> copilot的自动联想
+![](\image\2022-05\2022-05-31-004941.jpg)

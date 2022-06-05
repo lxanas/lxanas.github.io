@@ -1,0 +1,11 @@
+---
+layout: post
+title: test
+date:   2022-6-4
+description: ''
+cover: '../image/2022-06/2.jpg'
+tags:
+- 说说
+---
+
+test

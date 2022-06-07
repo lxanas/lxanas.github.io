@@ -69,11 +69,11 @@ disqus_url: '' # https://abc.disqus.com/embed.js
 livere: false
 livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
 # Gitment评论 OAuth Application
-Gitment: false
-Gitment_owner: ''  # github用户名
-Gitment_repo: ''  # github博客存放的仓库名
-client_id: ''  # 注册 OAuth Application 后获得的 client_id
-client_secret: ''  # 注册 OAuth Application 后获得的 client_secret
+Gitment: true
+Gitment_owner: 'lxanas'  # github用户名
+Gitment_repo: 'lxanasdiscuss'  # github博客存放的仓库名
+client_id: 'ad074533b192455aed30'  # 注册 OAuth Application 后获得的 client_id
+client_secret: '9494d646ed4025c320eaae5df056f8d50d29dc47'  # 注册 OAuth Application 后获得的 client_secret
 
 # Share : weibo, qq, wechat, tencent, douban, qzone, linkedin, diandian, facebook, twitter, google
 social-share: true

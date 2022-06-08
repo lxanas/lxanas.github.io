@@ -23,17 +23,24 @@
 <!-- <meta name="theme-color" content="#1464FB"> -->
 <title>{{ page.title }}</title>
 <!-- 百度统计 -->
-{% if site.baidu %}
+<!--<script>-->
+<!--var _hmt = _hmt || [];-->
+<!--(function() {-->
+<!--  var hm = document.createElement("script");-->
+<!--  hm.src = "https://hm.baidu.com/hm.js?{{ site.baidu-url }}";-->
+<!--  var s = document.getElementsByTagName("script")[0];-->
+<!--  s.parentNode.insertBefore(hm, s);-->
+<!--})();-->
+<!--</script>-->
 <script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?{{ site.baidu-url }}";
-  var s = document.getElementsByTagName("script")[0];
-  s.parentNode.insertBefore(hm, s);
-})();
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?4ec54b4781b3f00b1f7c73e29281c6e9";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
 </script>
-{% endif %}
 <!-- 谷歌分析 -->
 {% if site.google %}
 <!-- Global site tag (gtag.js) - Google Analytics -->

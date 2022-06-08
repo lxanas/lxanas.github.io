@@ -80,8 +80,8 @@ social-share: true
 social-share-items: ['qq', 'wechat', 'weibo']
 
 # 百度统计 在baidu-url里填写自己相关的url代码
-baidu: false
-baidu-url: ''
+baidu: true
+baidu-url: 'dfeec80b1080a5d8c4e7043c4ba289dc'
 # 谷歌分析 在google-ID里填写自己在谷歌分析获得的追踪ID
 google: false
 google-ID: ''

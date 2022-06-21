@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 音乐。
+title: 音乐
 comments: true
 published: true
 date:   2022-6-22

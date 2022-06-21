@@ -12,6 +12,8 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   关于博主: '/about.html'
 #  友情链接: '/friendLink.html'
 
+timezone: Asia/Shanghai
+
 # 博主
 author: true
 name: 'kyle'
